@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+Implementation-Title: Batik Swing components
+Implementation-Version: 1.8
+Implementation-Vendor: The Apache Software Foundation (http://xmlgraph
+ ics.apache.org/batik/)
+Build-Id: 20150310-110032-CET (lbernardo [Linux 3.18.7-200.fc21.x86_64
+  amd64, Java 1.6.0_45-b06])
+

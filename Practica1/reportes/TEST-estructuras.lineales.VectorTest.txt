@@ -1,0 +1,24 @@
+Testsuite: estructuras.lineales.VectorTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.054 sec
+------------- Standard Output ---------------
+leeCapacidad
+lee de vector vacío
+leeCapacidad tras redimensionar
+aseguraLeeCapacidad - sin cambios
+Asigna capacidad - valor inválido
+aseguraLeeCapacidad - con incremento
+aseguraLeeCapacidad - con incremento, caso frontera
+asigna y lee - dentro de INC
+==============================
+Calificación automática: 10.0
+==============================
+------------- ---------------- ---------------
+
+Testcase: testLeeCapacidad took 0.001 sec
+Testcase: testLee took 0 sec
+Testcase: testAsignaLeeCapacidad1 took 0 sec
+Testcase: testAseguraLeeCapacidad took 0 sec
+Testcase: testAsignaCapacidad took 0 sec
+Testcase: testAseguraLeeCapacidad1 took 0 sec
+Testcase: testAseguraLeeCapacidad2 took 0 sec
+Testcase: testAsignaLee took 0 sec
